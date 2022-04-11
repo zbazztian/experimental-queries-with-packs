@@ -33,7 +33,7 @@ jobs:
 
     - name: Autobuild
       uses: github/codeql-action/autobuild@v1
-        working-directory: acio
+        working-directory: commons-io
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
