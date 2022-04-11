@@ -35,7 +35,7 @@ jobs:
       with:
         languages: ${{ matrix.language }}
         packs: zbazztian/experimental-queries-with-packs
-        source-root: acio
+#        source-root: acio
         #queries: zbazztian/security-and-quality-extended/suites/default.qls@main
 
     - name: Autobuild
