@@ -1,0 +1,4 @@
+# https://codeql.github.com/docs/codeql-cli/creating-codeql-query-suites/
+
+- queries: .
+  from: codeql/java-queries
